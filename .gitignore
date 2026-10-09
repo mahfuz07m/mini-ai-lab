@@ -3,6 +3,21 @@
 # dependencies
 node_modules/
 
+# EAS Build artifacts
+*.apk
+*.aab
+*.ipa
+*.bundle
+
+# Local EAS credentials and build caches
+.eas/
+eas-credentials.local.json
+auth.json
+
+# Native android and ios build directories (generated during local builds)
+android/
+ios/
+
 # Expo
 .expo/
 dist/

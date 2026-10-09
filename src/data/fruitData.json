@@ -1,0 +1,302 @@
+[
+  {
+    "weight_g": 165.0,
+    "color_score": 0.98,
+    "fruit": "apple"
+  },
+  {
+    "weight_g": 130.6,
+    "color_score": 0.24,
+    "fruit": "banana"
+  },
+  {
+    "weight_g": 106.5,
+    "color_score": 0.33,
+    "fruit": "banana"
+  },
+  {
+    "weight_g": 204.9,
+    "color_score": 0.59,
+    "fruit": "orange"
+  },
+  {
+    "weight_g": 122.3,
+    "color_score": 0.42,
+    "fruit": "banana"
+  },
+  {
+    "weight_g": 177.0,
+    "color_score": 0.51,
+    "fruit": "orange"
+  },
+  {
+    "weight_g": 186.4,
+    "color_score": 0.63,
+    "fruit": "orange"
+  },
+  {
+    "weight_g": 139.9,
+    "color_score": 0.43,
+    "fruit": "orange"
+  },
+  {
+    "weight_g": 199.2,
+    "color_score": 0.82,
+    "fruit": "apple"
+  },
+  {
+    "weight_g": 134.3,
+    "color_score": 0.24,
+    "fruit": "banana"
+  },
+  {
+    "weight_g": 120.5,
+    "color_score": 0.3,
+    "fruit": "banana"
+  },
+  {
+    "weight_g": 173.8,
+    "color_score": 0.78,
+    "fruit": "apple"
+  },
+  {
+    "weight_g": 147.4,
+    "color_score": 0.45,
+    "fruit": "banana"
+  },
+  {
+    "weight_g": 205.3,
+    "color_score": 0.79,
+    "fruit": "apple"
+  },
+  {
+    "weight_g": 152.2,
+    "color_score": 0.85,
+    "fruit": "apple"
+  },
+  {
+    "weight_g": 145.6,
+    "color_score": 0.26,
+    "fruit": "banana"
+  },
+  {
+    "weight_g": 99.4,
+    "color_score": 0.25,
+    "fruit": "banana"
+  },
+  {
+    "weight_g": 215.1,
+    "color_score": 0.46,
+    "fruit": "orange"
+  },
+  {
+    "weight_g": 191.6,
+    "color_score": 0.59,
+    "fruit": "orange"
+  },
+  {
+    "weight_g": 183.6,
+    "color_score": 0.55,
+    "fruit": "orange"
+  },
+  {
+    "weight_g": 125.8,
+    "color_score": 0.32,
+    "fruit": "banana"
+  },
+  {
+    "weight_g": 251.6,
+    "color_score": 0.56,
+    "fruit": "orange"
+  },
+  {
+    "weight_g": 169.1,
+    "color_score": 0.78,
+    "fruit": "apple"
+  },
+  {
+    "weight_g": 175.6,
+    "color_score": 0.21,
+    "fruit": "banana"
+  },
+  {
+    "weight_g": 194.0,
+    "color_score": 0.67,
+    "fruit": "orange"
+  },
+  {
+    "weight_g": 108.9,
+    "color_score": 0.3,
+    "fruit": "banana"
+  },
+  {
+    "weight_g": 151.6,
+    "color_score": 0.86,
+    "fruit": "apple"
+  },
+  {
+    "weight_g": 160.5,
+    "color_score": 0.42,
+    "fruit": "orange"
+  },
+  {
+    "weight_g": 169.4,
+    "color_score": 0.8,
+    "fruit": "apple"
+  },
+  {
+    "weight_g": 106.6,
+    "color_score": 0.22,
+    "fruit": "banana"
+  },
+  {
+    "weight_g": 172.2,
+    "color_score": 0.89,
+    "fruit": "apple"
+  },
+  {
+    "weight_g": 134.0,
+    "color_score": 0.3,
+    "fruit": "banana"
+  },
+  {
+    "weight_g": 91.3,
+    "color_score": 0.44,
+    "fruit": "banana"
+  },
+  {
+    "weight_g": 180.6,
+    "color_score": 0.72,
+    "fruit": "orange"
+  },
+  {
+    "weight_g": 161.5,
+    "color_score": 0.72,
+    "fruit": "apple"
+  },
+  {
+    "weight_g": 186.5,
+    "color_score": 0.78,
+    "fruit": "apple"
+  },
+  {
+    "weight_g": 180.7,
+    "color_score": 0.86,
+    "fruit": "apple"
+  },
+  {
+    "weight_g": 197.4,
+    "color_score": 0.58,
+    "fruit": "orange"
+  },
+  {
+    "weight_g": 171.5,
+    "color_score": 0.67,
+    "fruit": "orange"
+  },
+  {
+    "weight_g": 177.0,
+    "color_score": 0.59,
+    "fruit": "orange"
+  },
+  {
+    "weight_g": 105.2,
+    "color_score": 0.21,
+    "fruit": "banana"
+  },
+  {
+    "weight_g": 132.6,
+    "color_score": 0.34,
+    "fruit": "banana"
+  },
+  {
+    "weight_g": 173.2,
+    "color_score": 0.82,
+    "fruit": "apple"
+  },
+  {
+    "weight_g": 181.2,
+    "color_score": 0.65,
+    "fruit": "orange"
+  },
+  {
+    "weight_g": 200.7,
+    "color_score": 0.47,
+    "fruit": "orange"
+  },
+  {
+    "weight_g": 147.1,
+    "color_score": 0.86,
+    "fruit": "apple"
+  },
+  {
+    "weight_g": 113.9,
+    "color_score": 0.28,
+    "fruit": "banana"
+  },
+  {
+    "weight_g": 170.2,
+    "color_score": 0.97,
+    "fruit": "apple"
+  },
+  {
+    "weight_g": 167.0,
+    "color_score": 0.92,
+    "fruit": "apple"
+  },
+  {
+    "weight_g": 159.5,
+    "color_score": 0.81,
+    "fruit": "apple"
+  },
+  {
+    "weight_g": 101.1,
+    "color_score": 0.24,
+    "fruit": "banana"
+  },
+  {
+    "weight_g": 182.3,
+    "color_score": 0.51,
+    "fruit": "orange"
+  },
+  {
+    "weight_g": 133.9,
+    "color_score": 0.84,
+    "fruit": "apple"
+  },
+  {
+    "weight_g": 167.1,
+    "color_score": 0.86,
+    "fruit": "apple"
+  },
+  {
+    "weight_g": 204.9,
+    "color_score": 0.62,
+    "fruit": "orange"
+  },
+  {
+    "weight_g": 144.8,
+    "color_score": 0.32,
+    "fruit": "banana"
+  },
+  {
+    "weight_g": 93.7,
+    "color_score": 0.28,
+    "fruit": "banana"
+  },
+  {
+    "weight_g": 131.5,
+    "color_score": 0.87,
+    "fruit": "apple"
+  },
+  {
+    "weight_g": 191.9,
+    "color_score": 0.51,
+    "fruit": "orange"
+  },
+  {
+    "weight_g": 138.8,
+    "color_score": 0.54,
+    "fruit": "orange"
+  }
+]
